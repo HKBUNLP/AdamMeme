@@ -27,8 +27,7 @@ For data used in our paper, please refer to [MAMI](https://github.com/TIBHannove
 ```
 
 ## Harmfulness Mining
-
-分类流程
+Run harmfulness mining by:
 ```
 cd scripts
 python mining.py
