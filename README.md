@@ -31,7 +31,7 @@ For data used in our paper, please refer to [MAMI](https://github.com/TIBHannove
 分类流程
 ```
 cd scripts
-python classifier.py
+python mining.py
 ```
 
 ## Model Scoring
@@ -52,5 +52,5 @@ python scoring.py --exp_name exp_name --model_name model_name
 Run iterative refinement by:
 
 ```
-python autorefine_gen_meme.py --exp_name exp_name --model_name model_name
+python refinement.py --exp_name exp_name --model_name model_name
 ```

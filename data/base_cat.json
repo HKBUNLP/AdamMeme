@@ -1,0 +1,18 @@
+{
+    "meme_harmfulness_understanding": [
+        "race",
+        "gender",
+        "religion",
+        "nationality",
+        "disability",
+        "animal"
+    ],
+    "meme_harmfulness": {
+      "race": "This category involves harm or bias directed towards individuals or groups based on their racial or ethnic background. Memes in this category may perpetuate stereotypes or reinforce racial inequalities.",
+      "gender": "This category addresses harm or discrimination based on a person's gender. Memes can be harmful when they perpetuate gender stereotypes, objectify individuals, or marginalize certain gender identities.",
+      "religion": "This category includes harmful content that targets individuals or groups based on their religious beliefs or practices. Memes can propagate intolerance, misrepresent religious practices, or incite hatred toward religious communities.",
+      "nationality": "This category involves harm directed at people based on their nationality or citizenship. Memes may exploit national stereotypes, promote xenophobia, or express disdain for particular national identities.",
+      "disability": "This category focuses on harm toward people with disabilities. Memes in this area may mock, belittle, or stereotype individuals with physical or mental disabilities, reinforcing negative societal attitudes or stigmas.",
+      "animal": "This category pertains to harm or mistreatment of animals in memes. It includes content that promotes cruelty, objectifies animals, or trivializes their suffering, which can desensitize audiences to animal welfare issues."
+}
+  }  
