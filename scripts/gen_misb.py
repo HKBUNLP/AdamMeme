@@ -85,7 +85,7 @@ def gem_misb(datalist):
             continue
     return datalist
 
-cls_res_path = "../data/data5k/full_data/cls_res_full_filtered.json"
+cls_res_path = "../data/data5k/full_data/cls_res_full.json"
 
 
 with open(cls_res_path,'r') as f:
