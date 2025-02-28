@@ -1,0 +1,6 @@
+{
+    "exp_name": "gen_meme_llava_5k",
+    "model_name": "llava",
+    "meme_cls_path": "../data/data5k/full_data/cls_res_full_filtered.json",
+    "cls_info": "../data/data5k/full_data/cls_res_full_cat_filtered.json"
+}
